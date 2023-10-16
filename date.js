@@ -1,0 +1,7 @@
+var d=new Date("16 october 2023")
+console.log(d.getDate())
+console.log(d.getDay())
+console.log(d.getTime())
+console.log(d.getMinutes())
+console.log(d.getMonth())
+console.log(d.getFullYear())
