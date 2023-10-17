@@ -8,4 +8,4 @@ var hey=function(callbacks)
     callbacks('sandra')
 }
 
-hey(hello);
+hello('sandra');
