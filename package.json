@@ -1,5 +1,16 @@
 {
   "dependencies": {
-    "readline-sync": "^1.4.10"
-  }
+    "readline-sync": "^1.4.10",
+    "text-decorator": "^0.1.1",
+    "text-upper-case": "^1.0.2"
+  },
+  "name": "web-development",
+  "version": "1.0.0",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
